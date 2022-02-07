@@ -21,15 +21,15 @@ If there were manual changes, or any changes made by drift...refresh sets enviro
 Destroys infrastructure built by apply
 
 
-# save plan output to file
-terraform plan | tee -a outfile
+save plan output to file
+`terraform plan | tee -a outfile`
 
-# remove ANSI escape and color characters
-cat outfile | gsed -r "s/[[:cntrl:]]\[[0-9]{1,3}m//g" > outfileclean
+remove ANSI escape and color characters
+`cat outfile | gsed -r "s/[[:cntrl:]]\[[0-9]{1,3}m//g" > outfileclean`
 
-# grep for additions/modifications/removals
-cat outfileclean | grep -e "^  +" -e "^  ~" -e "^  -"
+##### grep for additions/modifications/removals
+`cat outfileclean | grep -e "^  +" -e "^  ~" -e "^  -"`
 
-# generate param string to tack to 'terraform apply' with pre-populated targets
-# note: modify grep expressions according to your need
-cat outfileclean | grep -e "^  +" -e "^  ~" -e "^  -" | grep launch_template | awk '{print $2}' | sed 's/^/-target /' | xargs
+##### generate param string to tack to 'terraform apply' with pre-populated targets
+##### note: modify grep expressions according to your need
+`cat outfileclean | grep -e "^  +" -e "^  ~" -e "^  -" | grep launch_template | awk '{print $2}' | sed 's/^/-target /' | xargs`
