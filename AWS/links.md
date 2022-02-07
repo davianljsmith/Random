@@ -18,6 +18,12 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-z
 
 &nbsp; 
 
+**EBS**
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
+
+&nbsp; 
+
 **Auto Scaling Groups**
 
 https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
@@ -31,12 +37,6 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
 https://aws.amazon.com/rds/faqs/
 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.XRgn.html
-
-&nbsp; 
-
-**EBS**
-
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
 
 &nbsp; 
 
