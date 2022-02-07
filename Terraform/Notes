@@ -1,7 +1,0 @@
-### Commands
-
-__terraform init__
-terraform plan
-terraform apply
-terraform refresh
-terraform destroy
