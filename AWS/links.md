@@ -17,6 +17,13 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-copy-snapshot.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html
 
 &nbsp; 
+
+**Auto Scaling Groups**
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
+
 &nbsp;
 
 **RDS**
@@ -37,3 +44,4 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
 **API Gateway**
 
 https://aws.amazon.com/api-gateway/
+
