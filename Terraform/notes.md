@@ -20,6 +20,8 @@ If there were manual changes, or any changes made by drift...refresh sets enviro
 
 Destroys infrastructure built by apply
 
+__________________________________________________________________________________________________________________
+
 
 save plan output to file
 
