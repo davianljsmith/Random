@@ -41,3 +41,9 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.XRgn.html
 
 https://aws.amazon.com/api-gateway/
 
+&nbsp; 
+
+**S3**
+
+https://github.com/davianljsmith/Random/blob/main/AWS
+
