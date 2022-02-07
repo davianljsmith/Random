@@ -47,3 +47,5 @@ https://aws.amazon.com/api-gateway/
 
 https://github.com/davianljsmith/Random/blob/main/AWS
 
+https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html
+
