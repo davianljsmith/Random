@@ -57,4 +57,15 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integra
 
 https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.Lambda.html
 
+&nbsp;
+
+**IAM Roles***
+
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-config.html
+
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html
+
+https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-launch-configuration.html
+
+
 
