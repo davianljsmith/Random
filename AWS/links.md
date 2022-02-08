@@ -49,4 +49,12 @@ https://github.com/davianljsmith/Random/blob/main/AWS
 
 https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html
 
-.
+&nbsp;
+
+**Lambda**
+
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.Lambda.html#AuroraMySQL.Integrating.LambdaAccess
+
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/AuroraMySQL.Integrating.Lambda.html
+
+
