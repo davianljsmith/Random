@@ -40,6 +40,12 @@ https://aws.amazon.com/rds/faqs/
 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.XRgn.html
 
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html (encryption)
+
+https://aws.amazon.com/blogs/database/selecting-the-right-encryption-options-for-amazon-rds-and-amazon-aurora-database-engines/
+
+https://aws.amazon.com/rds/features/security/
+
 &nbsp; 
 
 
@@ -72,6 +78,14 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/create-launch-config.html
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html
 
 https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-launch-configuration.html
+
+&nbsp;
+
+**EMR**
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-overview-benefits.html
+
+https://aws.amazon.com/emr/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+
 
 
 
