@@ -28,6 +28,12 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
 
 &nbsp;
 
+**Load Balancer**
+
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
+
+&nbsp;
+
 **RDS**
 
 https://aws.amazon.com/rds/faqs/
