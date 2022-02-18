@@ -44,7 +44,9 @@ remove ANSI escape and color characters
 __________________________________________________________________________________________________________
 
 State file
+
 terraform.tfstate
+
 terraform.tfstate.backup
 
 
