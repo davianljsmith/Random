@@ -43,7 +43,7 @@ remove ANSI escape and color characters
 
 __________________________________________________________________________________________________________
 
-###Version Constraints
+### Version Constraints
 
 = (or no operator): Allows only one exact version number. Cannot be combined with other conditions.
 
