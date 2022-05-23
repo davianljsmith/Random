@@ -2,3 +2,10 @@ email_content = (iam_client.list_user_tags(UserName='$i'))
 email_tags = email_content['Tags']
 email_tags_dict=email_tags[0]
 toemail = email_tags_dict['Value']
+
+
+for each user, check to see if password needs rotating
+if yes
+add user to list 'expired'
+
+for i in list 'expired', send email
